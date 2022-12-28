@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Coding & Software Engineering Student<br>🏫 XU Exponential University<br>📍 Based in Potsdam<br>🌱 currently learning Vue.js, Laravel & Java Spring
+🎓 Coding & Software Engineering Student<br>🏫 XU Exponential University<br>📍 Based in Potsdam<br>🌱 currently learning Vue.js, Laravel & Java
 
 
 ## 🌐 Socials:
